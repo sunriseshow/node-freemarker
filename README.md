@@ -5,7 +5,7 @@ hello world!
 
 
 
-## localhost:3000//users
+## localhost:3000/users
 
  显示list数据和title
 

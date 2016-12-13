@@ -3,10 +3,10 @@
   <head>
 
   sssss
-    <title>fdfffddfd<#if title??>${title}</#if></title>
+    <title>fdfdfd<#if title??>${title}</#if></title>
   </head>
   <body>
-${mobile.css.host.url}
+
     <h1><#if title??>${title}</#if></h1>
 
     <#if lists??>

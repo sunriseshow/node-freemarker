@@ -1,0 +1,7 @@
+{
+  "file": "users.ftl",
+  "data": {
+    "lists": [{"product":"123","OK":"EEEE"},{"product":"456","OK":"FFFFF"}],
+    "title":"123test"
+  }
+}
